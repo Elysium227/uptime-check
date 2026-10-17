@@ -1,0 +1,5 @@
+[
+  {"name": "GitHub", "host": "github.com", "port": 443},
+  {"name": "Cloudflare DNS", "host": "1.1.1.1", "port": 53},
+  {"name": "Example web", "host": "example.com", "port": 443}
+]
